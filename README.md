@@ -1,2 +1,3 @@
-# calculus-part-2
-Repository for calculus part 2
+# calculus part 2
+this is my first repository
+
