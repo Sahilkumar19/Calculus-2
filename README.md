@@ -10,5 +10,5 @@ overdamping, critical and under damping and their graphs.
 
 2.A complete tutorial on linear regression
 
-3.First and second order differential equations and how to solve them and their python implementation.
+3.Eulers method for First and second order differential equations and how to solve them and their python implementation and graphs.
 
